@@ -1,3 +1,5 @@
+# WEEK-1
+
 # smart-ev-battery-health-infra-opt
 Build a smart system to optimize electric vehicle (EV) battery health and charging infrastructure using charging session data, machine learning, and advanced analytics.
 
